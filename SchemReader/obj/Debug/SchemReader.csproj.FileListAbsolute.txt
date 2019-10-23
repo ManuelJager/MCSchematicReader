@@ -1,0 +1,11 @@
+C:\Projects\SchemReader\SchemReader\bin\Debug\SchemReader.exe.config
+C:\Projects\SchemReader\SchemReader\bin\Debug\SchemReader.exe
+C:\Projects\SchemReader\SchemReader\bin\Debug\SchemReader.pdb
+C:\Projects\SchemReader\SchemReader\bin\Debug\fNbt.dll
+C:\Projects\SchemReader\SchemReader\bin\Debug\fNbt.xml
+C:\Projects\SchemReader\SchemReader\obj\Debug\SchemReader.csprojAssemblyReference.cache
+C:\Projects\SchemReader\SchemReader\obj\Debug\SchemReader.csproj.CopyComplete
+C:\Projects\SchemReader\SchemReader\obj\Debug\SchemReader.exe
+C:\Projects\SchemReader\SchemReader\obj\Debug\SchemReader.pdb
+C:\Projects\SchemReader\SchemReader\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\SchemReader\SchemReader\bin\Debug\Newtonsoft.Json.xml
